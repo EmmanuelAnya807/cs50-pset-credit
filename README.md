@@ -7,7 +7,8 @@ The program validates credit card numbers using Luhn’s Algorithm, checks the c
 ---
 
 ## 🛠️ Technologies Used
-- Python 3  
+- Python 3
+- Cs50 library
 
 ---
 
