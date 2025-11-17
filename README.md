@@ -20,7 +20,7 @@ The program validates credit card numbers using Luhn’s Algorithm, checks the c
 ---
 
 ## ▶️ How to Run the Program
-1. Clone this repository:  https://github.com/EmmanuelAnya807/cs50-pset1-credit-python.git
+1. Clone this repository:  https://github.com/EmmanuelAnya807/cs50-pset-credit.git
 2. Navigate into the folder: cd cs50-pset-credit
 3. Run the program: python credit.py
 4. When prompted, enter a credit card number.
